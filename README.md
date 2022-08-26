@@ -35,7 +35,7 @@ println(s"json: $s")
 Output:
 
 ```json
-json: {"name":"John","age":20,"phones":[{"phoneType":"home","number":"12345"},{"phoneType":"work","number":"54321"}]}
+{"name":"John","age":20,"phones":[{"phoneType":"home","number":"12345"},{"phoneType":"work","number":"54321"}]}
 ```
 
 ### Custom serializers
